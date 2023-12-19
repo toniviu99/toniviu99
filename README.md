@@ -9,7 +9,7 @@ Hi, I'm Toni
 
 ### About me :
 - 📱 I’m currently learning and developing Android apps in Kotlin
-- 📟 I have worked on a project with React Native
+- 📟 I have worked with React Native
 - 💻 I have worked making websites with wordpress (Elementor, HTML, CSS and JS)
 
 
